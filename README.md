@@ -51,7 +51,6 @@ Dự án này phù hợp cho:
 - Ổ cứng SSD: 10GB+ free space
 
 ### Lưu ý về GPU
-- GPU NVIDIA RTX 5050 (compute capability 12.0) **không tương thích** với PyTorch hiện tại
 - Chương trình sẽ tự động chạy trên CPU nếu GPU không khả dụng
 - Training trên CPU chậm hơn nhưng vẫn hoạt động tốt cho mục đích học tập
 
